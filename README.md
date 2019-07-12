@@ -1,4 +1,4 @@
-This is the source code of [Fundômetro](www.fundometro.com).
+This is the source code of [Fundômetro](http://www.fundometro.com).
 
 Fundômetro is a Landing Page that calls attention to the obscene amount of money that Brazilian Parties receive from the government.
 
