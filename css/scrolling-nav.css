@@ -14,3 +14,7 @@ section {
 .bg-novo {
   background-color: #f7941E !important;
 }
+
+.bg-head {
+  background-image: url("../img/moedas.jpg");
+}
